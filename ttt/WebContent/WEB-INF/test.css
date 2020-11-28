@@ -1,0 +1,58 @@
+.main
+{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	border: 2px solid blue;
+	
+
+}
+.head
+{
+	height: 40px;
+	background: blue;
+	
+	
+}
+.h4
+{
+	margin-left: 8px;
+	margin-top: 0px;
+	line-height: 40px;
+	color: white;
+}
+/*.content
+{
+	height: 360px;
+	background-color: yellow;
+
+}*/
+
+.usename
+{
+	margin-top: 20px;
+	margin-left: 10px;
+	width: 300px;
+	height: 20px;
+	font-size: 14px;
+
+}
+.gioitinh, .day,.month,.year,.addr
+{
+	margin-left: 9px;
+	height: 25px;
+	width: 90px;
+}
+.button
+{
+	margin-left: 9px;
+	margin-top: 30px;
+	border-radius: 3px;
+	background-color: #0099FF;
+	width: 80px;
+	height: 30px;
+	color: white;
+	cursor: pointer;
+	border: none;
+
+}
